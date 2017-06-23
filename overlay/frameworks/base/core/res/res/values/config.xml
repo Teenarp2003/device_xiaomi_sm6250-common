@@ -741,4 +741,8 @@
     <!-- Set the default dialer package name. -->
     <string name="config_defaultDialer" translatable="false">com.google.android.dialer</string>
 
+    <!-- Safe headphone volume index. When music stream volume is below this index
+    the SPL on headphone output is compliant to EN 60950 requirements for portable music
+    players. -->
+    <integer name="config_safe_media_volume_index">15</integer>
 </resources>
