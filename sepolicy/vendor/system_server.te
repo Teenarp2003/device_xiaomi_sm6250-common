@@ -12,3 +12,5 @@ get_prop(system_server, vendor_display_notch_prop)
 
 # Allow system_server to getpgid app_zygote
 allow system_server app_zygote:process getpgid;
+
+allow system_server vendor_sysfs_battery_supply:file r_file_perms;
