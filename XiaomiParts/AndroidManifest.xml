@@ -116,10 +116,6 @@
         </activity>
 
         <service android:name=".StartAction" />
-        <service
-            android:name=".DiracService"
-            android:enabled="true"
-            android:stopWithTask="false" />
 
         <service
             android:name=".XiaomipartsTile"
