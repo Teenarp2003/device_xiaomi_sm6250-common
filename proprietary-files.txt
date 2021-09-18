@@ -939,26 +939,27 @@ vendor/lib64/libkeymasterutils.so
 vendor/lib64/libqcbor.so
 vendor/lib64/libqtikeymaster4.so
 
-# Listen
-vendor/lib/hw/sound_trigger.primary.atoll.so
-vendor/lib/libadpcmdec.so
-vendor/lib/libcapiv2svacnn.so
-vendor/lib/libcapiv2vop.so
-vendor/lib/libgcs-calwrapper.so
-vendor/lib/libgcs-ipc.so
-vendor/lib/libgcs-osal.so
-vendor/lib/libgcs.so
-vendor/lib/liblistensoundmodel2.so
-vendor/lib/libmulawdec.so
-vendor/lib64/hw/sound_trigger.primary.atoll.so
-vendor/lib64/libcapiv2svacnn.so
-vendor/lib64/libcapiv2vop.so
-vendor/lib64/libgcs-calwrapper.so
-vendor/lib64/libgcs-ipc.so
-vendor/lib64/libgcs-osal.so
-vendor/lib64/libgcs.so
-vendor/lib64/liblistensoundmodel2.so
-vendor/lib64/libmulawdec.so
+# Listen from curtana-qssi-user-11-RKQ1.200826.002-V12.0.5.0.RJWINXM
+vendor/lib/hw/sound_trigger.primary.atoll.so|832c7be045b19c2710d991085d2d3c6c1a817336
+vendor/lib/libadpcmdec.so|5232c32b93a8653612cd8fcdde161a9d7fe39c7f
+vendor/lib/libcapiv2svacnn.so|10271e9d5a32377740292bcf27f35098ee65fb5b
+vendor/lib/libcapiv2vop.so|ffde544a5b8b4db988e92308568a84caad80518e
+vendor/lib/libgcs-calwrapper.so|3cd4f6dabebed0e18b9083b4d4d34fd1e6854ec2
+vendor/lib/libgcs-ipc.so|a46b089b2bca4adbd30dc4cbd7c7ab2ec9602965
+vendor/lib/libgcs-osal.so|c8055991809da427b5fdf0b18b67cefc7b17a399
+vendor/lib/libgcs.so|42a4cab80ab4338f118f0bd061467761a4eb1dd9
+vendor/lib/liblistensoundmodel2.so|6b9b687a0d27dcff4a2362ab1e75d98066bb05cb
+vendor/lib/libmulawdec.so|4ad85b4982bf0cfed77c9bede75aac09a51ab062
+vendor/lib/libsmwrapper.so|a041e025afa7545eac0c51f6e421510af8eb89f1
+vendor/lib64/hw/sound_trigger.primary.atoll.so|bf5319f4034732c82e9062b7b643a729d6f0e298
+vendor/lib64/libcapiv2svacnn.so|2feddde9dfee7ba606b72266d1b42e95d0e03c70
+vendor/lib64/libcapiv2vop.so|23a80adfacbfe48b8b4b57d74b3f4f847447ddf5
+vendor/lib64/libgcs-calwrapper.so|1f99a3ea9c1814a8ccc08f4de1dacafd94f8bd56
+vendor/lib64/libgcs-ipc.so|021b5029ba57d320d69c1ce7938296c5ad1b9a3f
+vendor/lib64/libgcs-osal.so|59ab5c733b8ded09a79dd6e233536c965ed0887c
+vendor/lib64/libgcs.so|cd71a2379fd231a7dc9860eef70918a148ba03ae
+vendor/lib64/liblistensoundmodel2.so|5af77b25c11e3e9df049c7006653bb1c30eae85a
+vendor/lib64/libmulawdec.so|75298ca84a46f99b47e5a5ecc21b22a54d65c52c
 
 # Media
 vendor/etc/seccomp_policy/mediacodec.policy
