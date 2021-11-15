@@ -1,4 +1,4 @@
-# All unpinned blobs below are extracted from gram-qssi-user-11-RKQ1.200826.002-V12.0.1.0.RJPINXM-release-keys
+# All unpinned blobs below are extracted from gram-qssi-user-11-RKQ1.200826.002-V12.5.2.0.RJPINXM-release-keys
 
 # ACDB
 vendor/etc/acdbdata/adsp_avs_config.acdb
@@ -599,7 +599,7 @@ vendor/lib64/vendor.qti.hardware.dsp@1.0.so
 
 # Fingerprint
 vendor/lib64/com.fingerprints.extension@1.0.so
-vendor/lib64/hw/fingerprint.fpc.default.so|645bf256da2db3ce60dddab9b3282ab7241bbcb0
+vendor/lib64/hw/fingerprint.fpc.default.so
 vendor/lib64/hw/fingerprint.goodix.default.so
 vendor/lib64/libgf_ca.so
 vendor/lib64/libgf_hal.so
@@ -973,8 +973,8 @@ vendor/lib64/libmulawdec.so
 vendor/lib64/libjnihelper.so
 
 # Soundtrigger HAL
-vendor/lib/hw/sound_trigger.primary.atoll.so|5b863cb2b05a97230cba79ff742bcd2328875312
-vendor/lib64/hw/sound_trigger.primary.atoll.so|534794f201694e0d9d6e31f6e9dd6e76fb9d10f6
+vendor/lib/hw/sound_trigger.primary.atoll.so
+vendor/lib64/hw/sound_trigger.primary.atoll.so
 
 # Media
 vendor/etc/seccomp_policy/mediacodec.policy
